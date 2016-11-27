@@ -18,9 +18,28 @@
     </info>
     <chapter>
         <title>State of the Nation</title>
-        <sect1>
-            <title/>
-            <para/>
-        </sect1>
+        <para>The world of social collaboration at work has morphed and expanded again since the
+            second edition of this book was published in August 2015.  In that there there is a
+            renewed focus on discussion applications like IBM Watson Workspace, Cisco Spark, Slack
+            and Microsoft Teams.  </para>
+        <para>I can't readily prove this, but I am guessing the initial paradigm in social
+            collaboration was that people liked to post status updates to applications like Facebook
+            and LinkedIn, and so therefore basing social collaboration on "working out loud" was the
+            most obvious way to implement a new model for business collaboration.  It has, however,
+            turned out that this prediction while applicable in some small and isolated situations
+            really has not prevailed.</para>
+        <para>What has prevailed is the continued use of email as a communications tool and a steady
+            encroachment into the collaboration space of these discussion applications.  I see a
+            generational gap forming between the emailers and the chatters.  Those under the age of
+            about thirty are comfortable messaging each other rather than using their smartphone for
+            its primary purpose - to make phone calls.  This tendency towards messaging transferred
+            to the business environment makes email look terribly old fashioned and slow.  What the
+            messaging generation (those hooked on iMessage, WhatsApp, Facebook Messenger, etc.)
+            expect is to have the clarity of discussion and threading they have in their personal
+            lives, but at work.</para>
+        <para>So, to be successful in driving new employee engagement, unlocking experiences and
+            improving productivity, all of which fall under the collective banner of "building a
+            better business", we must now also include the group of solutions such as IBM Watson
+            Workspace, Microsoft Teams, Slack and so on.</para>
     </chapter>
 </book>
