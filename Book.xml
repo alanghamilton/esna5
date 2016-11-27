@@ -4,26 +4,23 @@
 <book xmlns="http://docbook.org/ns/docbook"
     xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <info>
-        <title/>
+        <title>Enterprise Social Network Adoption in 5 Steps, 3rd Edition</title>
         <author>
-            <orgname/>
+            <orgname>Alan Hamilton, Collaboration Today</orgname>
             <address>
 <city/>
 <street/>
 <postcode/>
 <country/>
             </address>
-            <email/>
+            <email>alan@collaboration.today</email>
         </author>
     </info>
-    <part>
-        <title/>
-        <chapter>
+    <chapter>
+        <title>State of the Nation</title>
+        <sect1>
             <title/>
-            <sect1>
-                <title/>
-                <para/>
-            </sect1>
-        </chapter>
-    </part>
+            <para/>
+        </sect1>
+    </chapter>
 </book>
